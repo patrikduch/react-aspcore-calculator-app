@@ -1,0 +1,9 @@
+Calculator.Web/Caulculator.Web/Properties/PublishProfiles/CustomProfile.pubxml
+Calculator.Web/Caulculator.Web/obj/
+Calculator.Web/Caulculator.Web/Frontend/node_modules/
+Calculator.Web/Caulculator.Web/bin/Debug/
+Calculator.Tests/obj/Debug/
+.vs
+Calculator.Tests/bin/Debug
+Calculator.Tests/obj/
+Calculator.Web/Caulculator.Web/Frontend/package-lock.json
